@@ -92,8 +92,3 @@
 </body>
 
 </html>
-$git int
-$git add
-$git commit -m "First commit"
-$git remote add origin https://github.com/elianachan/pr.git
-$git push -u origin master
