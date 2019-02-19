@@ -74,7 +74,7 @@
         <div class="container">
             <h1 class="display-4">Publish your special offer <3</h1>
             <p class="lead">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam accusantium, rem dolores ducimus quae et. Molestiae enim, omnis architecto, excepturi at aliquam sapiente esse nemo, rerum corporis aspernatur error iste.
+                Here is were you can easily add your main skills, interact with the best companies from your country. No waiting time, quick notifications from companies, quick interviews, and quickly get your new job. 
             </p>
                         <a href="login.php">
                             <button class="btn btn-danger btn-custom">Add your knowledge</button>

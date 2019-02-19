@@ -38,7 +38,7 @@ if(isset($_SESSION['connected']) && $_SESSION['connected'] == true){
             header("Location: viewProfile.php?post=$id");
             $smsg = "User already logged in";
         }else{
-            $smsg = "You are not logged in";
+            $smsg = "You are not signed in";
         }
 
 ?>
